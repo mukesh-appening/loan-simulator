@@ -319,7 +319,7 @@ st.download_button(
 st.markdown("""
     <div style="text-align: center; padding-top: 100px;">
         <a href="https://github.com/czantoine/Savings-Simulator" target="_blank">
-            <img src="https://img.shields.io/github/stars/czantoine/Savings-Simulator?style=social" alt="Star on GitHub">
+            <img src="https://img.shields.io/github/stars/czantoine/Loan-Simulator?style=social" alt="Star on GitHub">
         </a>
     </div>
     <div style="text-align: center; padding-top: 20px;">
