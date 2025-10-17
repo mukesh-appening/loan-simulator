@@ -153,9 +153,6 @@ test-results/
 test_*.py
 *_test.py
 
-# Geck testing framework
-.geck/
-
 # Logs
 *.log
 logs/
