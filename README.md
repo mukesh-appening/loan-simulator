@@ -49,4 +49,4 @@ This repository is licensed under the Apache License 2.0 - see the [LICENSE](LIC
 
 ---
 
-If you find this project useful, please give it a star ⭐️ ! Your support is greatly appreciated. Also, feel free to contribute to this project. All contributions, whether bug fixes, improvements, or new features, are welcome!
+If you find this project useful, please give it a star ⭐️ ! Your support is greatly appreciated. Also, feel free to contribute to this project. All contributions, whether bug fixes, improvements, or new features, are welcome!# loan-simulator
